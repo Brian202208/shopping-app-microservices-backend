@@ -7,3 +7,12 @@ In this project I am building a simple online shopping application backend. The 
 + Centralized logging
 + Circuit Breaker
 + Securing Microservices using Keycloack
+
+The services contained in this project are
++ `Product Service:` - create and view products, act as product catalog
++ `Order Service:` -Can order products
++ `Inventory Service: `- Can check if product is in stock or not
++ `Notification service: `- can send notifications, after order is placed
+
+These services are to communicate both `synchronous` and `asynchronous`
+
