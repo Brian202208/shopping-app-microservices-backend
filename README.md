@@ -32,6 +32,6 @@ These services are to communicate both `synchronous` and `asynchronous`
 + Kubernetes
 + MySQL
 
-## Individual Service Architecture
+## Each Service Architecture
 ![Product Service](./drawings/Service.PNG)
 
