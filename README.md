@@ -16,3 +16,22 @@ The services contained in this project are
 
 These services are to communicate both `synchronous` and `asynchronous`
 
+## Solution Architecture
+![Architecture](./drawings/Architecture.png)
+
+## Tools and Technologies
++ Spring Boot
++ Resilience4j
++ MongoDB
++ Kafka
++ Docker
++ Prometheus
++ Grafana
++ Grafana Loki
++ OpenTelemetry
++ Kubernetes
++ MySQL
+
+## Individual Service Architecture
+![Product Service](./drawings/service.png)
+
