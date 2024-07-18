@@ -33,5 +33,5 @@ These services are to communicate both `synchronous` and `asynchronous`
 + MySQL
 
 ## Individual Service Architecture
-![Product Service](./drawings/service.PNG)
+![Product Service](./drawings/Service.PNG)
 
