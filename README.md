@@ -17,7 +17,7 @@ The services contained in this project are
 These services are to communicate both `synchronous` and `asynchronous`
 
 ## Solution Architecture
-![Architecture](drawings/Architecture.png)
+![Architecture](./drawings/Architecture.PNG)
 
 ## Tools and Technologies
 + Spring Boot
@@ -33,5 +33,5 @@ These services are to communicate both `synchronous` and `asynchronous`
 + MySQL
 
 ## Individual Service Architecture
-![Product Service](drawings/service.png)
+![Product Service](./drawings/service.PNG)
 
