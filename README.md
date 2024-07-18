@@ -17,7 +17,7 @@ The services contained in this project are
 These services are to communicate both `synchronous` and `asynchronous`
 
 ## Solution Architecture
-![Architecture](./drawings/Architecture.png)
+![Architecture](drawings/Architecture.png)
 
 ## Tools and Technologies
 + Spring Boot
